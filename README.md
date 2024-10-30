@@ -1,4 +1,13 @@
-# Welcome to your Expo app 👋
+# Quotes App 👋
+
+## Tech Stack:
+- Expo cli (with typescript)
+- Redux, redux-toolkit
+- [react-native-toast-message](https://www.npmjs.com/package/react-native-toast-message)
+
+## Demo Screenshots:
+![IMG_7928](https://github.com/user-attachments/assets/574de396-9c61-4642-bb00-cfed2ed001ee)
+![IMG_7930](https://github.com/user-attachments/assets/f3eba0dd-3553-4cb1-b981-9908af8fd5ad)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
