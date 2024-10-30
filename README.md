@@ -1,5 +1,7 @@
 # Quotes App 👋
 
+This app fetches a random quote from API provided by [Quoatable](https://github.com/lukePeavey/quotable). Users can save a quote or fetch a new one. Saved quotes can be viewed and also be removed.
+
 ## Tech Stack:
 - Expo cli (with typescript)
 - Redux, redux-toolkit
